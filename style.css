@@ -608,9 +608,7 @@ footer p {
     
     .sect5-text h1 {
         font-size: 2rem;
-        font-weight: 800;
-        letter-spacing: 0.02cm;
-        padding-left: 2rem;
+        padding-left: 1rem;
     }
     
     .sect5-text p {
