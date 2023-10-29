@@ -301,8 +301,12 @@ body {
     border-radius: 1px;
     background-color: #383535;
     height: 5rem;
-    width: 60rem;
+    width: 80rem;
     align-items: center;
+}
+
+.icon:hover {
+    background-color: #474242;
 }
 
 .icon p {
@@ -510,8 +514,8 @@ footer p {
         display: flex;
         flex-direction: column;
         padding: 2rem 1.5rem 2rem 1.5rem;
-        margin-top: 0.3rem;
-        margin-bottom: 0.3rem;
+        margin-top: 0.5rem;
+        margin-bottom: 0.5rem;
     }
 
     .sect2-text {
@@ -545,7 +549,7 @@ footer p {
         width: 100%;
         height: 550px;
         padding: 2rem 1.5rem 2rem 1.5rem;
-        margin-bottom: 0.3rem;
+        margin-bottom: 0.5rem;
         text-align: center;
     }
     
@@ -572,7 +576,7 @@ footer p {
         width: 100%;
         align-items: center;
         padding: 2rem 1.5rem 2rem 1.5rem;
-        margin-bottom: 0.3rem;
+        margin-bottom: 0.5rem;
         text-align: center;
     }
     
@@ -594,7 +598,7 @@ footer p {
         width: 100%;
         height: 550px;
         padding: 3rem 1.5rem 2rem 1.5rem;
-        margin-bottom: 0.3rem;
+        margin-bottom: 0.5rem;
     }
     
     .sect5 img {
@@ -620,10 +624,10 @@ footer p {
         align-items: center;
         justify-content: space-between;
         width: 100%;
-        height: 120vh;
+        height: 80vh;
         padding: 3rem 1.5rem 0rem 1.5rem;
         gap: 2rem;
-        margin-bottom: 0.3rem;
+        margin-bottom: 0.5rem;
     }
     
     .sect6 h1 {
@@ -716,6 +720,7 @@ footer p {
         display: flex;
         align-items: flex-start;
         justify-content: flex-start;
+        padding-left: 1.5rem;
     }
 
     .one li {
@@ -727,7 +732,7 @@ footer p {
     .footer-a {
         color: #fff;
         font-size: 1rem;
-        padding-left: 0rem; 
+        padding-left: 0.6rem; 
         padding-bottom: 1rem;
     }
 
