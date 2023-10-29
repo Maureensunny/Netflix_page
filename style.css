@@ -624,14 +624,14 @@ footer p {
         align-items: center;
         justify-content: space-between;
         width: 100%;
-        height: 800px;
+        height: 100vh;
         padding: 3rem 1.5rem 0rem 1.5rem;
         gap: 2rem;
         margin-bottom: 0.5rem;
     }
     
     .sect6 h1 {
-        font-size: 2rem;
+        font-size: 1.7rem;
         font-weight: 600;
         letter-spacing: 0.02cm;
     }
